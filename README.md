@@ -1,9 +1,41 @@
 
-
 > [!abstract] Purpose  
-> This wiki is my personal learning and reference material for **AI Engineering**. It is designed to build knowledge gradually, starting from the fundamentals and progressing toward advanced AI systems and infrastructure.
+> This wiki is my personal learning and reference material for **AI Engineering**. It is designed to build knowledge gradually, starting from the fundamentals and progressing toward advanced AI systems.
 
 The goal is to understand not only individual AI concepts, but also how they connect together and how they are used to build real-world AI systems.
+
+---
+
+## Getting Started with Obsidian
+
+This project is designed for **learning purposes** and works best when viewed in **Obsidian**, a powerful markdown-based knowledge management tool.
+
+### How to Use This Project:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/rajin-siam/AI-Engineering-Wiki.git
+   cd AI-Engineering-Wiki
+   ```
+
+2. **Open in Obsidian:**
+   - Download and install [Obsidian](https://obsidian.md/) if you haven't already
+   - Open Obsidian and select "Open folder as vault"
+   - Navigate to the cloned `AI-Engineering-Wiki` folder and open it
+   - Obsidian will automatically recognize all markdown files and create a interconnected knowledge base
+
+3. **Start Learning:**
+   - Begin with the **Master page** to see the overall structure
+   - Follow the phase indexes to navigate through topics in order
+   - Use Obsidian's graph view to visualize connections between concepts
+   - Click on internal links to jump between related topics
+
+**Benefits of using Obsidian:**
+- Visual graph showing connections between all AI Engineering concepts
+- Backlinks to see which topics reference each other
+- Seamless navigation through interconnected notes
+- Full-text search across all learning materials
+- Offline access to your entire learning resource
 
 ---
 
