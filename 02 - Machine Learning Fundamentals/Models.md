@@ -80,4 +80,3 @@ One important distinction for later:
 
 We'll focus on training next.
 
-Next: [[Training]]

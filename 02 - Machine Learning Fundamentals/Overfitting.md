@@ -94,4 +94,3 @@ Too much memorizing → Overfitting
 
 We'll look at **Underfitting** next.
 
-Next: [[Underfitting]]

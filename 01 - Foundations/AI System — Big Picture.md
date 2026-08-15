@@ -100,4 +100,4 @@ and:
 
 **AI Engineering → building systems that use these AI capabilities.**
 
-Next, we'll move into **Phase 2 — Machine Learning Fundamentals**, starting with [[Data]].
+Next, we'll move into **Phase 2 — [[Machine Learning Fundamentals]]**, 

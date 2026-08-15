@@ -71,4 +71,3 @@ Learns Patterns
 Trained Model
 ```
 
-Next: [[Validation Data]]

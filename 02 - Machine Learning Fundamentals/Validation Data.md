@@ -95,4 +95,3 @@ For now, remember their basic roles:
 > [!important] Remember  
 > **Validation data is used to evaluate and improve our model during development, without using those examples to directly train the model.**
 
-Next: [[Test Data]]

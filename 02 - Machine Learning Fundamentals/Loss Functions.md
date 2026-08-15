@@ -114,4 +114,3 @@ Loss
 How wrong is the model?
 ```
 
-Next: [[Optimizers]]

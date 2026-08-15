@@ -77,4 +77,3 @@ Final Evaluation
 > [!important] Remember  
 > **Training data teaches the model, validation data helps us develop it, and test data gives us the final evaluation.**
 
-Next: [[Loss Functions]]
