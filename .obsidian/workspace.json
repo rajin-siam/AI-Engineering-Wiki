@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tensors.md",
+                "file": "04 — Tensors/Tensors.md",
                 "mode": "source",
                 "source": false
               },
@@ -280,10 +280,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "260fbe131e246b8a",
+  "active": "684b8411ba68e443",
   "lastOpenFiles": [
     "04 — Tensors.md",
-    "Tensors.md",
+    "04 — Tensors/Tensors.md",
     "04 — Tensors",
     "03 — Neural Networks/03 — Neural Networks.md",
     "03 — Neural Networks/Layers.md",
