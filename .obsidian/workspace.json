@@ -81,14 +81,24 @@
             "id": "865a377203d1b469",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "260fbe131e246b8a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "03 — Neural Networks/Layers.md",
+                "file": "Tensors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layers"
+              "title": "Tensors"
             }
           },
           {
@@ -106,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -270,11 +280,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "684b8411ba68e443",
+  "active": "260fbe131e246b8a",
   "lastOpenFiles": [
-    "Learning Rate.md",
-    "Batches.md",
+    "04 — Tensors.md",
+    "Tensors.md",
+    "04 — Tensors",
     "03 — Neural Networks/03 — Neural Networks.md",
+    "03 — Neural Networks/Layers.md",
+    "03 — Neural Networks/Learning Rate.md",
+    "03 — Neural Networks/Batches.md",
     "README.md",
     "03 — Neural Networks/Activation Functions.md",
     "03 — Neural Networks/Gradient Descent.md",
@@ -285,7 +299,6 @@
     "03 — Neural Networks/Forward Pass.md",
     "02 - Machine Learning Fundamentals/Loss Functions.md",
     "03 — Neural Networks/Parameters.md",
-    "03 — Neural Networks/Layers.md",
     "03 — Neural Networks/Weights and Biases.md",
     "03 — Neural Networks/Neurons.md",
     "03 — Neural Networks/Neural Networks.md",
@@ -297,8 +310,6 @@
     "02 - Machine Learning Fundamentals/Data.md",
     "02 - Machine Learning Fundamentals/Validation Data.md",
     "02 - Machine Learning Fundamentals/Training Data.md",
-    "02 - Machine Learning Fundamentals/Training.md",
-    "02 - Machine Learning Fundamentals/Test Data.md",
     "02 - Machine Learning Fundamentals",
     "01 - Foundations"
   ]
